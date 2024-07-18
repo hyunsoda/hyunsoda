@@ -4,6 +4,7 @@ type=waving&text=&animation=twinkling&height=80)
 font=Alkatra&weight=500&size=45&duration=3500&pause=3
 &center=false&vCenter=false&multiline=true&repeat=true&width=1000
 &height=100&lines=Welcome+to+Sohyun's+GitHub!👋)](https://git.io/typing-svg)
+
 <!--
 **hyunsoda/hyunsoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
