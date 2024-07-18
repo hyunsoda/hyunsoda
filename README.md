@@ -31,9 +31,9 @@
 ## 📫 How to reach me 📫
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hyunsodaa@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/hyunsodaa@gmail.com-D14836?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyunsodaa@gmail.com"> 
     </a>
-    <a href="https://www.instagram.com/hyunsoda">
+    <a href="https://www.instagram.com/hyunso_da">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="https://velog.io/@hyunsoda/posts">
